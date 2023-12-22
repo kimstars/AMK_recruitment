@@ -1,0 +1,5 @@
+search xem số lần xor
+search số lần [rbp - 0x10],
+
+=> lệch nhau => có một số đoạn ko thực hiện xor
+=> code kiểm tra lần nào ko thực hiện xor => xor lần đó với 0

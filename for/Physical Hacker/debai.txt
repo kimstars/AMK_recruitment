@@ -1,0 +1,7 @@
+Link: https://mega.nz/file/I7sggQjA#iHikyudG6b59WsTzQGznB23kFG24lUZnhtwnusBKoIg
+
+md5: 16a4a278832fc1c178f12af580668114
+
+LordofDemon - a physical hacker has implanted something weird into my computer while I was away. Can you help me gather some information about it?
+
+nc 103.162.14.116 18002

@@ -1,0 +1,5 @@
+xtea cipher
+
+wscript.exe
+
+Key : key_is__minidump
